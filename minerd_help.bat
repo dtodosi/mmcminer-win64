@@ -1,0 +1,4 @@
+
+minerd.exe --help
+
+pause
